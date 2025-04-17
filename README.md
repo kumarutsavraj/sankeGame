@@ -4,7 +4,6 @@ A simple Snake Game built using C++ and the console for rendering. This project 
 
 ## 🎮 Features
 
-- Console-based gameplay
 - Classic snake mechanics
 - Real-time input handling
 - Score tracking
